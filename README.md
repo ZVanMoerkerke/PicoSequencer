@@ -1,6 +1,6 @@
 # PicoSequencer
 A modular sequencer based on Pi Pico &amp; EuroPi
-By Zeno Van Moerkerke / Keurslager Kurt
+by Zeno Van Moerkerke / Keurslager Kurt
 
 For now it is 'only' a trigger sequencer, but I sincerely hope to build this into an Elektron style complex sequencer with CV out, conditional triggers, microtiming,..
 
