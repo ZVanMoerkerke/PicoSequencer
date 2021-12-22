@@ -10,11 +10,11 @@ So what can it do right now?
 - Technically you can send the triggers to a total amount of 30 pins. If you work with EuroPi, it only makes sense to use six pins of course.
 - To use for example the two first pins for a trigger sequence, you fill in the 'allSequences' variable like this:
 [
-#this is the first pin's sequence
+this is the first pin's sequence
 [1, 0, 0, 0]
 
 ,
-#this is the second pin's:
+this is the second pin's:
 [0, 0, 1, 0]
 ]
 
