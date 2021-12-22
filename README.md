@@ -19,4 +19,4 @@ So the 'allSequences' variable is effectively a so-called 'nested' list: a list 
 
 - Sequences loop automatically. If you choose sequences of different lengths, they will start to drift apart: cool!
 - You can also drop in values BETWEEN 0 and 1 to use probabilities. A value of 0.5 will for example have a 50% chance to generate a trigger at that moment.
-- - Variable clock, set with analog input 1 (you can change this if you want to use something else). I rescaled the value to 0-5V now, so you can change this according to your setup. Or disable the analog input line and just set the bpm in the script.
+- Variable clock, set with analog input 1 (you can change this if you want to use something else). I rescaled the value to 0-5V now, so you can change this according to your setup. Or disable the analog input line and just set the bpm in the script.
